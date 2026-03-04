@@ -18,5 +18,3 @@ LucidCatalyst specializes in accelerating clean energy deployment, particularly 
 ## Connect
 
 - 🌐 [lucidcatalyst.com](https://www.lucidcatalyst.com)
-- 🐦 [@lucidcatalyst](https://twitter.com/lucidcatalyst)
-- ✉️ info@lucidcatalyst.com
